@@ -40,10 +40,12 @@ This code will only work if you redo the modifications of the dataframe, it also
 
 ## SOME PICTURES FROM THE SCRIPT
 
-![1](https://github.com/iagoapiai/Comparator-Interface-System/assets/116030785/a6f02e09-a378-4027-8225-340e59e5a497)
+<p align="center">
+    <img src="https://github.com/iagoapiai/Comparator-Interface-System/assets/116030785/a6f02e09-a378-4027-8225-340e59e5a497" width="600" height="750">
+    <img src="https://github.com/iagoapiai/Comparator-Interface-System/assets/116030785/d61e7eb0-07ef-465e-872b-9de971dffec4" width="600" height="750">
+</p>
 
-![2](https://github.com/iagoapiai/Comparator-Interface-System/assets/116030785/d61e7eb0-07ef-465e-872b-9de971dffec4)
+Personal project, made to increase efficiency in my work! ❤️
 
-## Personal script, made to increase efficiency in my work!
 
 
