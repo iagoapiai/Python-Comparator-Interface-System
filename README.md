@@ -44,6 +44,6 @@ This code will only work if you redo the modifications of the dataframe, it also
 
 ![2](https://github.com/iagoapiai/Comparator-Interface-System/assets/116030785/d61e7eb0-07ef-465e-872b-9de971dffec4)
 
-##<**Personal script, made to increase efficiency in my work!**>
+## Personal script, made to increase efficiency in my work!
 
 
