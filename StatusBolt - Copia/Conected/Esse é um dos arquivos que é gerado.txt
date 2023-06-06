@@ -1,0 +1,3 @@
+Esse é um dos arquivos que é gerado quando você utiliza a ação importar dados do script!
+
+OBS: O arquivo está censurado pois contem informações confidenciais!
