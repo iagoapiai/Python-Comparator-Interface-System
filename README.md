@@ -1,6 +1,8 @@
 # Comparator-Interface-System
 The Python script showcases an interface featuring several functions, with the primary function being the comparison of two tables to display variations. Additionally, the script includes a web scraping function designed to extract desired data from the company's website, saving it in an Excel file for future comparisons. 
 
+This script can be improved, but I chose to keep it as one of my first works of data manipulation with interface. I want to leave it exactly as I did at the time so I can see how much I have evolved!
+
 It is important to note that this code will only function correctly when the website elements and spreadsheet data are appropriately modified, as well as the directories adjusted.
 
 ## :warning: Prerequisites
